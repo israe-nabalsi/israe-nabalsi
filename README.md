@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm ISRAE</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate FullStack developer from Morocco</h3>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chuis Projects**
+- 🔭 I’m currently working as a **Office Manager at STE CORFIT**
 
-- 🌱 I’m currently learning **React & laravel.**
+- 🌱 I’m currently learning **AI Training Agents**
 
 - 👯 I’m looking to collaborate on **on innovative web applications and open-source projects that enhance user experience and accessibility.**
 
 - 🤝 I’m looking for help with **designing responsive layouts and optimizing user experiences.**
 
-- 👨‍💻 All of my projects are available at [israeNb.com](israeNb.com)
+- 👨‍💻 All of my projects are available at My Repos
 
-- 💬 Ask me about **frontend development, web design, or my favorite coding projects!**
+- 💬 Ask me about **frontend development, web design,AI NEWS, or my favorite coding projects!**
 
 - 📫 How to reach me **israe.nabalssi.pro@gmail.com**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/israe-nabalssi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israe-nabalssi/" height="30" width="40" /></a>
-<a href="https://fb.com/israe_nabalssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="israe_nabalssi" height="30" width="40" /></a>
+
 <a href="https://instagram.com/israe_nabalssi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israe_nabalssi" height="30" width="40" /></a>
 </p>
 
