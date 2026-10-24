@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working as a **Office Manager at STE CORFIT**
+- 🔭 I’m currently working as an **Office Manager at STE CORFIT**
 
 - 🌱 I’m currently learning **AI Training Agents**
 
